@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Depression Tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/dirtylittledirtbike/project_04/main/tensorboard_files/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dirtylittledirtbike/project_04/main/tensorboard_files/meta.tsv"
+    }
+  ]
+}
