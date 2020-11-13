@@ -10,7 +10,7 @@
       "metadataPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/depression_meta.tsv"
     },
     {
-        "tensorName": "wiki glove",
+        "tensorName": "news glove",
         "tensorShape": [
             400000,
             50
