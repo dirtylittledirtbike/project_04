@@ -19,13 +19,13 @@
         "metadataPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/glove_meta.tsv"
     },
     {
-        "tensorName": "twitter glove",
+        "tensorName": "twitter glove (very slow)",
         "tensorShape": [
             71291,
             200
         ],
-        "tensorPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_full_200d_tensors.bytes",
-        "metadataPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_full_200d_labels.tsv"
+        "tensorPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/twitter_vecs.tsv",
+        "metadataPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/twitter_meta.tsv"
     }
   ]
 }
