@@ -10,13 +10,13 @@
       "metadataPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/depression_meta.tsv"
     },
     {
-        "tensorName": "word2vec 10k",
+        "tensorName": "word2vec all",
         "tensorShape": [
-            1000,
-            50
+            71291,
+            200
         ],
-        "tensorPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_10000_200d_tensors.bytes",
-        "metadataPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_10000_200d_labels.tsv"
+        "tensorPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_full_200d_tensors.bytes",
+        "metadataPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_full_200d_labels.tsv"
     },
     {
         "tensorName": "stanford glove",
