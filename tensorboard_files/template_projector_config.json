@@ -12,7 +12,7 @@
     {
         "tensorName": "wiki glove",
         "tensorShape": [
-            1000,
+            400000,
             50
         ],
         "tensorPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/glove_vecs.tsv",
