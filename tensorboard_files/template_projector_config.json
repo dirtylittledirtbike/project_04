@@ -10,7 +10,7 @@
       "metadataPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/depression_meta.tsv"
     },
     {
-        "tensorName": "word2vec all",
+        "tensorName": "tensorflow demo",
         "tensorShape": [
             71291,
             200
@@ -19,7 +19,7 @@
         "metadataPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_full_200d_labels.tsv"
     },
     {
-        "tensorName": "stanford glove",
+        "tensorName": "wiki glove",
         "tensorShape": [
             1000,
             50
