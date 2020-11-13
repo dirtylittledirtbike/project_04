@@ -17,15 +17,6 @@
         ],
         "tensorPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/glove_vecs.tsv",
         "metadataPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/glove_meta.tsv"
-    },
-    {
-        "tensorName": "tensorflow demo",
-        "tensorShape": [
-            71291,
-            200
-        ],
-        "tensorPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_full_200d_tensors.bytes",
-        "metadataPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_full_200d_labels.tsv"
     }
   ]
 }
