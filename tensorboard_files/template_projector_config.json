@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Depression Tensor",
+      "tensorName": "r/depression",
       "tensorShape": [
         1000,
         50
