@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "r/depression word2vec",
+      "tensorName": "r/depression-word2vec",
       "tensorShape": [
         1000,
         50
@@ -10,7 +10,7 @@
       "metadataPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/depression_meta.tsv"
     },
     {
-        "tensorName": "twitter glove",
+        "tensorName": "twitter-glove",
         "tensorShape": [
             1000,
             50
@@ -19,7 +19,7 @@
         "metadataPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/twitter_meta.tsv"
     },
     {
-        "tensorName": "google's model",
+        "tensorName": "stanford-glove",
         "tensorShape": [
             1000,
             50
