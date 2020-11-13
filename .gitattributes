@@ -2,3 +2,5 @@
 /tensorboard_files/depression_vecs.tsv filter=lfs diff=lfs merge=lfs -text
 /tensorboard_files/glove_vecs.tsv filter=lfs diff=lfs merge=lfs -text
 /tensorboard_files/glove_meta.tsv filter=lfs diff=lfs merge=lfs -text
+/tensorboard_files/twitter_vecs.tsv filter=lfs diff=lfs merge=lfs -text
+/tensorboard_files/twitter_meta.tsv filter=lfs diff=lfs merge=lfs -text
