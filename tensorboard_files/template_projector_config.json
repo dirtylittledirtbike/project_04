@@ -8,6 +8,15 @@
       ],
       "tensorPath": "https://raw.githubusercontent.com/dirtylittledirtbike/project_04/main/tensorboard_files/vecs.tsv",
       "metadataPath": "https://raw.githubusercontent.com/dirtylittledirtbike/project_04/main/tensorboard_files/meta.tsv"
+    },
+    {
+        "tensorName": "google's model",
+        "tensorShape": [
+            1000,
+            50
+        ],
+        "tensorPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/glove_embeddings/main/glove_vecs.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/dirtylittledirtbike/glove_embeddings/main/glove_meta.tsv"
     }
   ]
 }
