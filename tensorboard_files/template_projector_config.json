@@ -3,8 +3,8 @@
     {
       "tensorName": "r/depression word2vec",
       "tensorShape": [
-        1000,
-        50
+        18189,
+        400
       ],
       "tensorPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/depression_vecs.tsv",
       "metadataPath": "https://media.githubusercontent.com/media/dirtylittledirtbike/project_04/main/tensorboard_files/depression_meta.tsv"
